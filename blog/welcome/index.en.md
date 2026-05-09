@@ -11,3 +11,5 @@ publishDate: 2026-01-01
 
 This baseline article is restored before every real-mode test run.
 Editing it is fine — every suite force-resets the working branch.
+
+<!-- realmode save 1778342351518 -->
